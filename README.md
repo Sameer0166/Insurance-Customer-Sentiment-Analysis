@@ -141,15 +141,15 @@ During the development of this project, several technical challenges were addres
 
 ### Insurance Overview
 
-![Insurance Dashboard](Images/Insurance_Overview.png)
+![Insurance Dashboard](https://github.com/Sameer0166/Insurance-Customer-Sentiment-Analysis/blob/main/page%201.png)
 
 ### Customer Sentiment Analysis
 
-![Sentiment Dashboard](Images/Sentiment_Analysis.png)
+![Sentiment Dashboard](https://github.com/Sameer0166/Insurance-Customer-Sentiment-Analysis/blob/main/page%202.png)
 
 ### Customer Feedback Insights
 
-![Customer Feedback](Images/Customer_Feedback.png)
+![Customer Feedback](https://github.com/Sameer0166/Insurance-Customer-Sentiment-Analysis/blob/main/page%203.png)
 
 ---
 
