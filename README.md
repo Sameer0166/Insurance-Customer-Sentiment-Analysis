@@ -137,7 +137,7 @@ During the development of this project, several technical challenges were addres
 
 ---
 
-## Dashboard Preview
+## Dashboard Screenshots
 
 ### Insurance Overview
 
@@ -180,22 +180,6 @@ Possible future enhancements include:
 - Customer churn prediction.
 - Claims processing analysis.
 - Predictive customer satisfaction modeling.
-
----
-
-## Dashboard Screenshots
-
-### Insurance Dashboard
-
-*(Insert dashboard overview image here.)*
-
-### Customer Sentiment Dashboard
-
-*(Insert sentiment analysis dashboard image here.)*
-
-### Customer Feedback Dashboard
-
-*(Insert customer feedback dashboard image here.)*
 
 ---
 
